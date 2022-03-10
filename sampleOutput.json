@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Andrew Buncombe",
+            "title": "After Trayvon Martin, up to 18k killed amid stand-your-ground laws - The Independent",
+            "description": "In 10 years since shooting of teenager, the laws, purported to protect the public, have done the opposite, writes Andrew Buncombe",
+            "url": "https://www.independent.co.uk/news/world/americas/trayvon-martin-anniversary-stand-your-ground-law-b2023978.html",
+            "urlToImage": "https://static.independent.co.uk/2022/02/25/00/Trayvon-stand1.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-02-26T14:01:22Z",
+            "content": "Hundreds of Americans, a disproportionately high number of them Black people, are being shot and killed as a result of controversial stand your ground laws that have swept across the nation since the… [+8457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Warren Buffett in annual letter calls Apple one of 'Four Giants' driving the conglomerate's value - CNBC",
+            "description": "In his annual letter to Berkshire shareholders on Saturday, Buffett called Tim Cook's Apple his \"runner-up Giant\" next to the cluster of insurers.",
+            "url": "https://www.cnbc.com/2022/02/26/warren-buffett-in-annual-letter-calls-apple-one-of-four-giants-driving-the-conglomerates-value.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106103767-1567109294943gettyimages-110859556.jpeg?v=1608824883",
+            "publishedAt": "2022-02-26T13:43:48Z",
+            "content": "Warren Buffett said he now considers tech giant Apple as one of the four pillars driving Berkshire Hathaway, the conglomerate of mostly old-economy businesses he's assembled over the last five decade… [+2896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Martin Pengelly",
+            "title": "Tucker Carlson condemned for Ketanji Brown Jackson ‘Rwanda’ comments - The Guardian",
+            "description": "Fox News anchor accused of presenting ‘perfect distillation of white supremacy’ in rant against supreme court nominee",
+            "url": "https://amp.theguardian.com/us-news/2022/feb/26/rwanda-tucker-carlson-ketanji-brown-jackson-supreme-court-biden-fox-news",
+            "urlToImage": null,
+            "publishedAt": "2022-02-26T13:25:00Z",
+            "content": "Ketanji Brown JacksonFox News anchor accused of presenting perfect distillation of white supremacy in rant against Biden supreme court nominee\r\nThe nomination of Ketanji Brown Jackson is an attempt t… [+5184 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephen Sorace",
+            "title": "Refugees fleeing Ukraine number nearly 120000, could reach 4 million as Russian invasion intensifies: UN - Fox News",
+            "description": "Refugees fleeing Ukraine so far number nearly 120,000 as Russia continues to pound the country's capital on the third day of its full-scale invasion.",
+            "url": "https://www.foxnews.com/world/refugees-ukraine-russian-invasion-united-nations",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/ukraine-refugees-2.jpg",
+            "publishedAt": "2022-02-26T13:06:49Z",
+            "content": "Hundreds of thousands of refugees have fled Ukraine for neighboring European countries as the third day of Russias full-scale invasion intensifies with fighting in the capital Kyiv.\r\nThe conflict has… [+2364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Makhachev vs Green - Time is Coming | Fight Preview | UFC Vegas 49 - UFC - Ultimate Fighting Championship",
+            "description": "Preview the UFC Vegas 49 lightweight main event between Islam Makhachev and Bobby Green. The UFC Vegas 49 main card begins at 7pm ET / 4pm PT on Saturday, Fe...",
+            "url": "https://www.youtube.com/watch?v=8VF_Bm8nlCM",
+            "urlToImage": "https://i.ytimg.com/vi/8VF_Bm8nlCM/maxresdefault.jpg",
+            "publishedAt": "2022-02-26T13:00:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Yaroslav Trofimov",
+            "title": "Russia’s Assault on Ukraine Presses Forward as Street Battles Rage in Kyiv - The Wall Street Journal",
+            "description": "Airstrikes hit cities, tanks roll in and casualties mount on third day of Russian invasion; U.S. authorizes military aid for Ukraine",
+            "url": "https://www.wsj.com/articles/russias-assault-on-ukraine-presses-forward-as-street-battles-rage-in-kyiv-11645864200",
+            "urlToImage": "https://images.wsj.net/im-493783/social",
+            "publishedAt": "2022-02-26T12:22:00Z",
+            "content": "KYIV, UkraineStreet battles raged through the night in the Ukrainian capital as Russian forces and undercover units in civilian clothes tried to enter the city, while Russian airstrikes and several a… [+355 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Europe at war: Six charts to know in financial markets - Reuters",
+            "description": "Russia launched a full-scale invasion of Ukraine this week, sparking a slew of sanctions and turmoil in global financial markets.",
+            "url": "https://www.reuters.com/markets/europe/europe-war-six-charts-know-financial-markets-2022-02-26/",
+            "urlToImage": "https://www.reuters.com/resizer/lP3sTFXI5SsehxWVNpOh0ZOUBgc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EZTDO7LVRJO63IVLEXRMMU6HYE.jpg",
+            "publishedAt": "2022-02-26T11:50:00Z",
+            "content": "LONDON, Feb 26 (Reuters) - Russia launched a full-scale invasion of Ukraine this week, sparking a slew of sanctions and turmoil in global financial markets.\r\nBelow are six charts showing the week's d… [+4165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Adam Satariano",
+            "title": "Russia Intensifies Censorship Campaign, Pressuring Tech Giants - The New York Times",
+            "description": "Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands.",
+            "url": "https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/25/business/25RUSSIA-INTERNET-COMBO/25RUSSIA-INTERNET-COMBO-facebookJumbo.jpg",
+            "publishedAt": "2022-02-26T11:48:59Z",
+            "content": "On Feb. 16, a Roskomnadzor official said companies that did not comply by the end of the month would face penalties. In addition to fines and possible shutdowns or slowdowns, the penalties could disr… [+1720 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Joshua Berlinger, CNN",
+            "title": "How Ukraine's Volodymyr Zelensky went from an actor playing president on TV to defiant wartime leader - CNN",
+            "description": "The comedian-turned-president came to power on the promise of bringing peace to Ukraine's east. Now he's taken on a wartime role.",
+            "url": "https://www.cnn.com/2022/02/25/europe/volodymyr-zelensky-profile-cmd-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220225075638-01-ukraine-russia-zelensky-022522-super-tease.jpg",
+            "publishedAt": "2022-02-26T11:04:00Z",
+            "content": "(CNN)Volodymyr Zelensky approached a lectern under bright lights, preparing to deliver a message to the Ukrainian people.\r\n\"Today I will start with long-awaited words, which I wish to announce with p… [+5304 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cutting Russia off from SWIFT a \"matter of days\" - euro zone central banker - Reuters",
+            "description": "A decision to cut Russia off from the global SWIFT payment system will be taken in a matter of days, the governor of a central bank within the euro zone told Reuters on Saturday.",
+            "url": "https://www.reuters.com/markets/europe/cutting-russia-off-swift-matter-days-euro-zone-central-banker-2022-02-26/",
+            "urlToImage": "https://www.reuters.com/resizer/Ad_E1dHUMdABh4XwyNLeql0cNm8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R2SWFAWCSRLNZOVZCVSFR6KR5U.jpg",
+            "publishedAt": "2022-02-26T10:03:00Z",
+            "content": "PARIS, Feb 26 (Reuters) - A decision to cut Russia off from the global SWIFT payment system will be taken in a matter of days, the governor of a central bank within the euro zone told Reuters on Satu… [+453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Kylie Jenner Back in Action Just 3 Weeks After Giving Birth - TMZ",
+            "description": "Kylie Jenner is back in action -- checking out real estate -- just three weeks after giving birth to her second child ... and she's got her mom right by her side.",
+            "url": "https://www.tmz.com/2022/02/26/kylie-jenner-pregnant-first-time-spotted-giving-birth/",
+            "urlToImage": "https://imagez.tmz.com/image/2b/16by9/2022/02/25/2b31d8b0925b400882e2a4bf7e0c3f23_xl.jpg",
+            "publishedAt": "2022-02-26T09:00:00Z",
+            "content": "Kylie Jenner is back in action -- checking out real estate -- just three weeks after giving birth to her second child ... and she's got her mom right by her side.\r\nCheck out these pics of Kris, Kylie… [+1009 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Kyiv residential tower hit by missile as fighting rages: Mayor - Al Jazeera English",
+            "description": "Apartment building comes under attack in Ukraine’s capital on third day of Russia’s invasion.",
+            "url": "https://www.aljazeera.com/news/2022/2/26/kyiv-residential-tower-hit-by-missile-as-fighting-rages-mayor",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/02/2022-02-26T083349Z_551151317_RC2KRS9311VL_RTRMADP_3_UKRAINE-CRISIS-KYIV.jpg?resize=1200%2C630",
+            "publishedAt": "2022-02-26T08:52:54Z",
+            "content": "The mayor of Kiyv says a missile has hit an apartment building in Ukraines capital, as fighting between Ukrainian and invading Russian forces raged but no deaths or injuries were immediately reported… [+2500 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jesse O’Neill",
+            "title": "Retired Florida cop who killed man in movie theater for texting acquitted of murder - New York Post ",
+            "description": "The retired Florida police captain who fatally shot a man inside a movie theater in 2014 was acquitted of murder by a jury late Friday.",
+            "url": "https://nypost.com/2022/02/26/curtis-reeves-retired-florida-cop-acquitted-of-murdering-chad-oulson-in-theater/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/newspress-collage-21342927-1645865030740.png?w=1024",
+            "publishedAt": "2022-02-26T08:40:00Z",
+            "content": "The retired Florida police captain who fatally shot a man inside a movie theater in 2014 was acquitted of murder by a jury late Friday.\r\nCurtis Reeves, 79, was charged with second-degree murder after… [+2165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "James Harden after strong 76ers debut: 'I'm one of the best teammates' in NBA - New York Post ",
+            "description": "James Harden had just hit a stepback 3-pointer while being fouled, a move seen countless times from the 10-time All-Star and 2018 MVP. Joel Embiid, his new teammate, raised both hands and met up wi…",
+            "url": "https://nypost.com/2022/02/26/james-harden-defends-himself-as-a-teammate-after-strong-76ers-debut/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/James-Harden-2-2.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-02-26T07:38:00Z",
+            "content": "MINNEAPOLIS James Harden had just hit a stepback 3-pointer while being fouled, a move seen countless times from the 10-time All-Star and 2018 MVP. Joel Embiid, his new teammate, raised both hands and… [+3888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Reuters",
+            "title": "S&P cuts Russia's rating to junk, Moody's issues junk warning - Fox Business",
+            "description": "Russia's invasion of Ukraine triggered a flurry of credit rating moves on Friday, with S&P lowering Russia's rating to 'junk' status, Moody's putting it on review for a downgrade to junk, and S&P and Fitch swiftly cutting Ukraine on default worries.",
+            "url": "https://www.foxbusiness.com/markets/sp-cuts-russias-rating-to-junk-moodys-issues-junk-warning",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/02/0/0/SP-Logo-1.jpg?ve=1&tl=1",
+            "publishedAt": "2022-02-26T05:55:54Z",
+            "content": "Russia's invasion of Ukraine triggered a flurry of credit rating moves on Friday, with S&amp;P lowering Russia's rating to 'junk' status, Moody's putting it on review for a downgrade to junk, and S&a… [+4637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Round Up: The Reviews Of Valve's Steam Deck Are In - What's It Like Compared To Switch? - Nintendo Life",
+            "description": "The critics deliver their final verdict",
+            "url": "https://www.nintendolife.com/news/2022/02/round-up-the-reviews-of-valves-steam-deck-are-in-whats-it-like-compared-to-switch",
+            "urlToImage": "https://images.nintendolife.com/b5f310df7bee5/1280x720.jpg",
+            "publishedAt": "2022-02-26T04:45:00Z",
+            "content": "Image: Valve\r\nValve's new portable gaming computer the Steam Deck might be \"going after\" a completely different audience but it's still drawn plenty of comparisons to the Nintendo Switch.\r\nThe final … [+4953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deseret News"
+            },
+            "author": "Herb Scribner",
+            "title": "COVID-19 symptoms: What symptoms to expect if you’re reinfected - Deseret News",
+            "description": "What happens if you’re reinfected with COVID? Can you get COVID again after omicron? Read about new COVID-19 symptoms.",
+            "url": "https://www.deseret.com/coronavirus/2022/2/25/22950587/ba-2-variant-covid-19-symptoms-reinfected",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/sAUz2LsAL9DstZIV6i-wQvyvmQY=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23136418/Omicron_4_Pro.jpg",
+            "publishedAt": "2022-02-26T03:30:00Z",
+            "content": "The BA.2 subvariant of the omicron variant has a unique set of symptoms that show up differently for everyone.\r\nDriving the news:Researchers recently conducted an in-depth analysis into reinfection r… [+1258 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aaron Aaron",
+            "title": "Mike Pompeo and Governor Kristi Noem criticize Russian President Vladimir Putin while navigating potential 2024 runs - CBS News",
+            "description": "Both criticized Putin, but sided with President Trump in saying the Russian leader is \"smart.\"",
+            "url": "https://www.cbsnews.com/news/mike-pompeo-and-governor-kristi-noem-criticize-russian-president-vladimir-putin-while-navigating-potential-2024-runs/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/02/26/16e84ca6-cb08-486b-b1ec-fd9ce2de7c2e/thumbnail/1200x630/29d1affa3dbf4fa63b6ee25562d60594/gettyimages-1238760754.jpg",
+            "publishedAt": "2022-02-26T03:11:02Z",
+            "content": "Former Secretary of State Mike Pompeo and South Dakota Governor Kristi Noem sharply criticized Russian President Vladimir Putin for his military's actions in Ukraine on Friday. But both agreed with f… [+4370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Mark Feinsand",
+            "title": "Progress on Draft lottery in latest MLB, MLBPA talks - MLB.com",
+            "description": "Major League Baseball and the MLB Players Association met for a fifth straight day of bargaining Friday in Jupiter, Fla., and although the two sides remain far apart on a number of issues, there were signs of progress.\nAccording to a league source, the two si…",
+            "url": "https://www.mlb.com/news/progress-on-draft-lottery-in-latest-mlb-mlbpa-talks",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/dupklmolxepsggidx9s7.jpg",
+            "publishedAt": "2022-02-26T03:08:58Z",
+            "content": "Major League Baseball and the MLB Players Association met for a fifth straight day of bargaining Friday in Jupiter, Fla., and although the two sides remain far apart on a number of issues, there were… [+2623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PINKVILLA"
+            },
+            "author": "Pinkvilla Desk",
+            "title": "Bheemla Nayak: Rana Daggubati pens an heartfelt note as his Pawan Kalyan co-starrer takes box office by storm - PINKVILLA",
+            "description": "Rana Daggubati penned a heartfelt note as Bheemla Nayak turned out to be another biggest blockbuster of Tollywood.",
+            "url": "https://www.pinkvilla.com/entertainment/south/bheemla-nayak-rana-daggubati-pens-heartfelt-note-his-pawan-kalyan-co-satrrer-takes-box-office-storm-1032773",
+            "urlToImage": "https://www.pinkvilla.com/files/styles/fbimagesection/public/rana_daggubati_bheemla_nayak_success_1.jpg?itok=au0LW_pJ",
+            "publishedAt": "2022-02-26T02:40:13Z",
+            "content": "Pawan Kalyan and Rana Daggubati starrer Bheemla Nayak was released on February 25 and has been getting tremendous response from all quarters. Fans have accepted the film with an open heart and the bo… [+1334 chars]"
+        }
+    ] 
+}
+
